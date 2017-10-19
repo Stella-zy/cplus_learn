@@ -1,7 +1,7 @@
 {
     "name": "node-js-getting-started",
     "scripts": {
-        "start": "node \login.js"
+        "start": "node ./login/login.js"
     },
     "engines": {
         "node": "4.x"
