@@ -1,0 +1,89 @@
+实例日志：[ERROR]     at Function.Module.runMain (module.js:665:10)
+[ERROR]     at startup (bootstrap_node.js:187:16)
+[ERROR]     at bootstrap_node.js:608:3
+[ERROR] npm ERR! code ELIFECYCLE
+[ERROR] npm ERR! errno 1
+[ERROR] npm ERR! node-js-getting-started@ start: `node  ./login/login.html`
+[ERROR] npm ERR! Exit status 1
+[ERROR] npm ERR! 
+[ERROR] npm ERR! Failed at the node-js-getting-started@ start script.
+[ERROR] npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+[ERROR] npm ERR! A complete log of this run can be found in:
+[ERROR] npm ERR!     /home/leanengine/.npm/_logs/2017-10-20T02_23_45_717Z-debug.log
+[INFO] > node-js-getting-started@ start /home/leanengine/app
+[INFO] > node  ./login/login.html
+[ERROR] /home/leanengine/app/login/login.html:1
+[ERROR] (function (exports, require, module, __filename, __dirname) { <!DOCTYPE html>
+[ERROR]                                                               ^
+[ERROR] SyntaxError: Unexpected token <
+[ERROR]     at createScript (vm.js:80:10)
+[ERROR]     at Object.runInThisContext (vm.js:139:10)
+[ERROR]     at Module._compile (module.js:588:28)
+[ERROR]     at Object.Module._extensions..js (module.js:635:10)
+[ERROR]     at Module.load (module.js:545:32)
+[ERROR]     at tryModuleLoad (module.js:508:12)
+[ERROR]     at Function.Module._load (module.js:500:3)
+[ERROR]     at Function.Module.runMain (module.js:665:10)
+[ERROR]     at startup (bootstrap_node.js:187:16)
+[ERROR]     at bootstrap_node.js:608:3
+[ERROR] npm ERR! code ELIFECYCLE
+[ERROR] npm ERR! errno 1
+[ERROR] npm ERR! node-js-getting-started@ start: `node  ./login/login.html`
+[ERROR] npm ERR! Exit status 1
+[ERROR] npm ERR! 
+[ERROR] npm ERR! Failed at the node-js-getting-started@ start script.
+[ERROR] npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+[ERROR] npm ERR! A complete log of this run can be found in:
+[ERROR] npm ERR!     /home/leanengine/.npm/_logs/2017-10-20T02_23_46_726Z-debug.log
+[INFO] > node-js-getting-started@ start /home/leanengine/app
+[INFO] > node  ./login/login.html
+[ERROR] /home/leanengine/app/login/login.html:1
+[ERROR] (function (exports, require, module, __filename, __dirname) { <!DOCTYPE html>
+[ERROR]                                                               ^
+[ERROR] SyntaxError: Unexpected token <
+[ERROR]     at createScript (vm.js:80:10)
+[ERROR]     at Object.runInThisContext (vm.js:139:10)
+[ERROR]     at Module._compile (module.js:588:28)
+[ERROR]     at Object.Module._extensions..js (module.js:635:10)
+[ERROR]     at Module.load (module.js:545:32)
+[ERROR]     at tryModuleLoad (module.js:508:12)
+[ERROR]     at Function.Module._load (module.js:500:3)
+[ERROR]     at Function.Module.runMain (module.js:665:10)
+[ERROR]     at startup (bootstrap_node.js:187:16)
+[ERROR]     at bootstrap_node.js:608:3
+[ERROR] npm ERR! code ELIFECYCLE
+[ERROR] npm ERR! errno 1
+[ERROR] npm ERR! node-js-getting-started@ start: `node  ./login/login.html`
+[ERROR] npm ERR! Exit status 1
+[ERROR] npm ERR! 
+[ERROR] npm ERR! Failed at the node-js-getting-started@ start script.
+[ERROR] npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+[ERROR] npm ERR! A complete log of this run can be found in:
+[ERROR] npm ERR!     /home/leanengine/.npm/_logs/2017-10-20T02_23_47_699Z-debug.log
+[INFO] > node-js-getting-started@ start /home/leanengine/app
+[INFO] > node  ./login/login.html
+[ERROR] /home/leanengine/app/login/login.html:1
+[ERROR] (function (exports, require, module, __filename, __dirname) { <!DOCTYPE html>
+[ERROR]                                                               ^
+[ERROR] SyntaxError: Unexpected token <
+[ERROR]     at createScript (vm.js:80:10)
+[ERROR]     at Object.runInThisContext (vm.js:139:10)
+[ERROR]     at Module._compile (module.js:588:28)
+[ERROR]     at Object.Module._extensions..js (module.js:635:10)
+[ERROR]     at Module.load (module.js:545:32)
+[ERROR]     at tryModuleLoad (module.js:508:12)
+[ERROR]     at Function.Module._load (module.js:500:3)
+[ERROR]     at Function.Module.runMain (module.js:665:10)
+[ERROR]     at startup (bootstrap_node.js:187:16)
+[ERROR]     at bootstrap_node.js:608:3
+[ERROR] npm ERR! code ELIFECYCLE
+[ERROR] npm ERR! errno 1
+[ERROR] npm ERR! node-js-getting-started@ start: `node  ./login/login.html`
+[ERROR] npm ERR! Exit status 1
+[ERROR] npm ERR! 
+[ERROR] npm ERR! Failed at the node-js-getting-started@ start script.
+[ERROR] npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+[ERROR] npm ERR! A complete log of this run can be found in:
+[ERROR] npm ERR!     /home/leanengine/.npm/_logs/2017-10-20T02_23_48_710Z-debug.log
+STDERR  2017-10-20 10:24:13 应用启动失败: 无法访问应用的 Web 端口（Error: connect ECONNREFUSED 10.10.176.106:47322），请确保程序正确启动了 HTTP 服务
+STDERR  2017-10-20 10:24:15 应用启动失败: 无法访问应用的 Web 端口（Error: connect ECONNREFUSED 10.10.176.106:47322），请确保程序正确启动了 HTTP 服务
